@@ -1,0 +1,50 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+h1{
+  font-family: "Permanent Marker", cursive;
+  font-weight: 400, 600, 700 ,800, 900;
+  font-style: normal;
+}
+
+p{
+  font-family: "Josefin Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+}
+h2{
+  font-family: "Josefin Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.darkLuig{
+    @apply bg-white dark:bg-slate-800 duration-300 
+}
+.dark47{
+    @apply bg-transparent duration-300
+}
+
+.dark .dark\:darkLuigi {
+    background-image: url("https://wallpaperbat.com/img/14490-full-moon-wallpaper.jpg");
+    background-size: 100% 100%;
+    background-attachment: fixed;
+  }
+  
+  .dark .dark\:darkFighter {
+    background-image: url("https://cdnb.artstation.com/p/assets/images/images/077/941/249/large/rseekir-screenshot-2024-06-15-110207.jpg?1720747972");
+    background-size: 100% 100%;
+    background-attachment: fixed;
+  }
+  .dark .dark\:darkMarioSociety {
+    background-image: url("https://wallpapercave.com/wp/wp2241769.png");
+    background-size: 100% 100%;
+    background-attachment: fixed;
+  }
+  
+  h1{
+    @apply tracking-widest
+  }
