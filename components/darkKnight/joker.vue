@@ -13,13 +13,13 @@
             <div class="mr-20 pt-16 text-gray-300">
                  <h2 class=" text-4xl pb-4 uppercase font-bold">the joker</h2>
                 <ul>
-                    <li class="text-lg capitalize border-b-2 my-4 pb-2">nom complet : <br>
+                    <li class="text-lg capitalize border-b-2 my-4 pb-2">nom complèt : <br>
                         <span class="text-xl uppercase font-bold">inconnu</span>
                     </li>
                     <li class="text-lg capitalize border-b-2 my-4 pb-2">surnom : <br>
                         <span class="text-xl uppercase font-bold">Mr J</span>
                     </li>
-                    <li class="text-lg capitalize border-b-2 my-4 pb-2">nom secret : <br>
+                    <li class="text-lg capitalize border-b-2 my-4 pb-2">nom secrèt : <br>
                         <span class="text-xl uppercase font-bold">red hood</span>
                     </li>
                     <li class="text-lg capitalize border-b-2 my-4 pb-2">activité : <br>
