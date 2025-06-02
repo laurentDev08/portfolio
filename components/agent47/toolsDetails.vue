@@ -10,7 +10,7 @@
                     <p class="text-xl text-justify">{{ item.content }}</p>
             </div>
         </div>
-        <h2 class="text-center text-5xl uppercase font-bold pt-40 pb-20">here comes the fatal weapon ... </h2>
+        <h2 class="text-center text-5xl uppercase font-bold pt-40 pb-20">code weapon ... </h2>
         <div class="pt-20">
             <img src="https://wallpapercave.com/wp/wp13141661.jpg" alt="">
         </div>

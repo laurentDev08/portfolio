@@ -7,7 +7,7 @@
                 <NuxtLink :to="`/hitman/${profil.id}`">
                     <img class="rounded" :src="profil.pic" alt="">
                 </NuxtLink>
-                <p class="text-center text-xl font-bold">{{ profil.id }}</p>
+                <p class="text-center text-2xl font-bold mt-4">{{ profil.id }}</p>
                 
             </div>
         </div>
